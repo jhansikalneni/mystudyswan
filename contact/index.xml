@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on MyStudySwan</title>
-    <link>http://localhost:1313/contact/</link>
+    <link>https://jhansikalneni.github.io/mystudyswan/contact/</link>
     <description>Recent content in Contact on MyStudySwan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2019 - 2020, MyStudySwan; all rights reserved.</copyright>
     <lastBuildDate>Thu, 27 Dec 2018 09:10:27 +0600</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jhansikalneni.github.io/mystudyswan/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
